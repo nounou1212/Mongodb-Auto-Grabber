@@ -9,5 +9,5 @@
   if You Had a Problem Just Upgrade it using this Command ( pip install --upgrade pymongo )
   
   Using This Script:
-  python mongrab.py /root/Desktop/ip.txt
+  python mongrab.py '/root/Desktop/ip.txt'
   You Can Choose Whetever Location You Want
